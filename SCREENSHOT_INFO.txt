@@ -1,0 +1,22 @@
+# Screenshot Placeholder
+
+## Jak dodać zrzut ekranu:
+
+1. Uruchom aplikację lokalnie: `streamlit run app.py`
+2. Zrób screenshot dashboardu (Alt + Print Screen na Windows, Cmd + Shift + 4 na Mac)
+3. Zapisz jako `screenshot.png` w głównym katalogu projektu
+4. Push do GitHub
+
+## Alternatywnie:
+
+Możesz użyć narzędzi online do robienia screenshotów z URL po deployment na Streamlit Cloud.
+
+## Tymczasowo:
+
+Możesz usunąć linię ze screenshotem z README lub dodać badge:
+
+```markdown
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+```
+
+To doda ładny badge zamiast screenshota.
