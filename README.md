@@ -79,7 +79,7 @@ jsonplaceholder-analytics/
 - **Pandas** - manipulacja i analiza danych
 - **Requests** - komunikacja z API
 
-## 🤖 Wykorzystanie AI (ChatGPT)
+## 🤖 Wykorzystanie AI
 
 Podczas tworzenia projektu używałem ChatGPT/Claude w następujący sposób:
 
@@ -115,7 +115,11 @@ AI było najbardziej pomocne jako:
 - 🔍 **Code reviewer** - wychwycenie potencjalnych problemów
 - ⚡ **Przyśpieszenie developmentu** - gotowe snippety do dostosowania
 
-**Nie używałem AI do:** generowania całego projektu na raz - każdy moduł pisałem krok po kroku, rozumiejąc co robi każda linijka.
+### Podejście do AI:
+Projekt został stworzony **krok po kroku** z pomocą Claude jako asystenta - każdy moduł 
+był tworzony osobno, testowany i rozumiany przed przejściem dalej. AI działał jako 
+doradca i źródło najlepszych praktyk, ale każda decyzja projektowa i implementacja 
+były świadome i przemyślane.
 
 ## 📊 Przykładowe wyniki
 
@@ -127,8 +131,8 @@ Na podstawie danych z JSONPlaceholder:
 
 ## 🔗 Linki
 
-- 🌐 **Live Demo:** [Streamlit Cloud](https://your-app.streamlit.app)
-- 💻 **Repository:** [GitHub](https://github.com/yourusername/jsonplaceholder-analytics)
+- 🌐 **Live Demo:** [Streamlit Cloud](https://jsonplaceholder-analytics.streamlit.app)
+- 💻 **Repository:** [GitHub](https://github.com/RadoslawZimodro/jsonplaceholder-analytics)
 - 📖 **API Documentation:** [JSONPlaceholder](https://jsonplaceholder.typicode.com)
 
 ## 📝 Licencja
@@ -137,7 +141,7 @@ MIT License - projekt stworzony do celów edukacyjnych.
 
 ## 👨‍💻 Autor
 
-Projekt stworzony jako zadanie rekrutacyjne dla Cogitech.
+Projekt stworzony przez Radosława Zimodro
 
 ---
 
